@@ -6,16 +6,16 @@ This guide provides information on the additional extensions and tools installed
 
 The following VSCode extensions are recommended for an optimized development experience:
 
-1. **[Aura Spirit Dracula Theme](https://marketplace.visualstudio.com/items?itemName=aura.spirit-dracula-theme)**  
+1. **[Aura Spirit Dracula Theme](https://marketplace.visualstudio.com/items?itemName=JoseMurilloc.aura-spirit-dracula)**  
    A visually appealing color theme inspired by the Dracula color palette.
 
-2. **[Moxter Icons](https://marketplace.visualstudio.com/items?itemName=moxter.icons)**  
+2. **[Moxer Icons](https://marketplace.visualstudio.com/items?itemName=Equinusocio.moxer-icons)**  
    A custom icon theme that provides a set of stylish and modern icons for your project files and folders.
 
-3. **[Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=apc.customize-ui)**  
+3. **[Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)**  
    An extension for extensive UI customization, allowing you to tweak the appearance of VSCode to your liking.
 
-4. **[VSCode Animations](https://marketplace.visualstudio.com/items?itemName=Somebody.vscode-animations)**  
+4. **[VSCode Animations](https://marketplace.visualstudio.com/items?itemName=BrandonKirbyson.vscode-animations)**  
    Adds subtle animations to the VSCode UI for a smoother and more dynamic user experience.
 
 ## Tools Installed
